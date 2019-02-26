@@ -1,8 +1,10 @@
 {
- "categories": [
+ "categories":
+ [
   {
    "title": "Afghanistan TV Channels|http://gsetechnology.co.uk/api/channelworld/flags/afghanistan.png",
-   "channels": [
+   "channels":
+   [
     {
      "chid": "1",
      "chname": "广东卫视",
