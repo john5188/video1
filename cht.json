@@ -68,19 +68,73 @@
   },
   {
    "itemid": "uid01",
-   "name": "未添加",
+   "name": "樱空桃",
+   "num": "0047",
+   "urllist": "https://s2.afast.ws/RL5ZJz9lZYn/VBQ52k2lwLLKp5q9K498CJswEZs13p/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃2",
+   "num": "0075",
+   "urllist": "https://s2.afast.ws/Dl0XlqAjBQL/40VxNHZsMxAELhWabWN1cG5nhncaxn/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃3",
+   "num": "0231",
+   "urllist": "③ https://s2.afast.ws/qb7B0bA2ZMz/eNm3VZCyG5YYaphDoyLXlGgnfIJFy6/main.m3u8
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃4",
+   "num": "0047",
+   "urllist": "https://s2.afast.ws/yAO870ReZ3v/esLXIOF5OWQ3zfVVuJM2E9ioDUY21q/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃5",
+   "num": "0075",
+   "urllist": "https://s2.afast.ws/Kmz8vQ1LBpj/5XNyooGKbbNa1duT3MWXo8LfeNaYnv/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃6",
+   "num": "0231",
+   "urllist": "https://s2.afast.ws/j6R854M7BwW/4AXILvIbWCLy8uFU3YtFxAHMR8wbYY/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃7",
+   "num": "0047",
+   "urllist": "https://s2.afast.ws/9VJBkvWdXye/YPDvxEo0CrTmu4XcJnHTobSNW0490R/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃8",
+   "num": "0075",
+   "urllist": "https://s2.afast.ws/akrBppN6Bo0/Z9UJVvjngsLv0z9FAV2SguaSJyBVHc/main.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃9",
+   "num": "0231",
+   "urllist": "http://google.com"
+  },
+  {
+   "itemid": "uid01",
+   "name": "樱空桃10",
    "num": "0047",
    "urllist": "http://google.com"
   },
   {
-   "itemid": "uid02",
-   "name": "未添加",
+   "itemid": "uid01",
+   "name": "樱空桃11",
    "num": "0075",
    "urllist": "http://google.com"
   },
   {
-   "itemid": "uid03",
-   "name": "未添加",
+   "itemid": "uid01",
+   "name": "樱空桃12",
    "num": "0231",
    "urllist": "http://google.com"
   }
