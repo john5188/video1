@@ -53,13 +53,7 @@
 },
 {"url": "http://1258238770.vod2.myqcloud.com/c4a0c9b4vodtranshk1258238770/ab6fe9ff5285890797743347297/v.f230.m3u8?t=5e31b151&exper=90&rlimit=3&us=d41d8cd98f&sign=c69dd6898d344036adfdc0c8eb940138",
 "name": "酒店幽会"
-}
-]
 },
-{
-"mc": "🇰🇷",
-"id": "yst",
-"data": [
 {
 "url": "https://s2.afast.ws/RL5ZJz9lZYn/VBQ52k2lwLLKp5q9K498CJswEZs13p/main.m3u8",
 "name": "樱空桃1"
@@ -119,6 +113,16 @@
 {
 "url": "https://s2.afast.ws/b3W8bgmDZOj/6dHSFKC8w6KbUYffcBiuCQypZbpu73/main.m3u8",
 "name": "樱空桃15"
+}
+]
+},
+{
+"mc": "🇰🇷",
+"id": "yst",
+"data": [
+{
+"url": "https://s2.afast.ws/RL5ZJz9lZYn/VBQ52k2lwLLKp5q9K498CJswEZs13p/main.m3u8",
+"name": "樱空桃1"
 }
 ]
 },
