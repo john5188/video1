@@ -1,0 +1,7 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://vip9.cf/4in1/tx.jpeg" group-title= "* Fluxus.tv",* Fluxus.tv
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vip9.cf/4in1/tx.jpeg" group-title= "* Fluxus.tv",Fluxus Wallpapers (MP4)
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
